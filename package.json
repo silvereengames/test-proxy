@@ -1,0 +1,23 @@
+{
+  "name": "silvereen.dev",
+  "version": "1.0.0",
+  "description": "My readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvereennetwork/silvereen.dev.git"
+  },
+  "author": "Silvereen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvereennetwork/silvereen.dev/issues"
+  },
+  "homepage": "https://github.com/silvereennetwork/silvereen.dev#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "express-http-proxy": "^2.0.0"
+  }
+}
