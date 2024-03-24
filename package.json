@@ -18,6 +18,7 @@
   "homepage": "https://github.com/silvereennetwork/silvereen.dev#readme",
   "dependencies": {
     "express": "^4.19.1",
-    "express-http-proxy": "^2.0.0"
+    "express-http-proxy": "^2.0.0",
+    "typewriter-effect": "^2.21.0"
   }
 }

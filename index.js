@@ -5,9 +5,7 @@ const port = 5000;
 
 app.use('/proxy', proxy('www.google.com'));
 
-/*app.get('/', (req, res) => {
-    res.send('Hello World!')
-});*/
+app.use('/', express.static('public'));
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
